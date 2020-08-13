@@ -16,3 +16,5 @@ FEATURE LIST:
 *Create PDF invoice from the given order
 *Export customer/inventory database
 *Import customer/inventory database
+*Notifications for diverse actions
+*On screen error messages
