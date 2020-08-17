@@ -1,4 +1,4 @@
-# Get-it_JAVA_CRUD-Hibernate-Application
+# Get-it_JAVA_CRUD-Hibernate/Maven-Application
 Minimalistic, maintainable Logistic Programm to keep track of inventory, store customer data, orders, etc. Automated PDF invoices &amp; CSV import/export
 
 
